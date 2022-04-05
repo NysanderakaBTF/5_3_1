@@ -28,6 +28,7 @@ int main()
 			}
 		}
 	} while (x != 0);
+	delete (cl4*)p;
 	return 0;
 }
 
