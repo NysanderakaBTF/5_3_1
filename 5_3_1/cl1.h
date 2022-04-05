@@ -1,7 +1,7 @@
 #pragma once
 class cl1
 {
-private:
+protected:
 	int a1;
 public:
 	cl1(int);

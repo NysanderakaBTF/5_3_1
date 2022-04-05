@@ -28,5 +28,6 @@ int main()
 			}
 		}
 	} while (x != 0);
+	return 0;
 }
 

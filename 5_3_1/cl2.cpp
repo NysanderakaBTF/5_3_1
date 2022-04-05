@@ -7,5 +7,5 @@ int cl2::calc(int x)
 
 cl2::cl2(int a, int b):cl1(a)
 {
-	a1 = a; a2 = b;
+	a2 = b;
 }

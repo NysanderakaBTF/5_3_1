@@ -3,8 +3,8 @@
 class cl2 :
 	public cl1
 {
-private:
-	int a1, a2;
+protected:
+	int a2;
 public:
 	virtual int calc(int);
 	cl2(int, int);

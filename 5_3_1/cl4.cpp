@@ -7,5 +7,5 @@ int cl4::calc(int x)
 
 cl4::cl4(int a, int b, int c, int d):cl3(a,b,c)
 {
-	a1 = a; a2 = b; a3 = c; a4 = d;
+	a4 = d;
 }
